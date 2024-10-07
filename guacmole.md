@@ -1,6 +1,7 @@
 name
 ## Ingredients
-*lemon
+*lime
+*cilantro
 ### Mes
 
 ## dirctory
