@@ -5,3 +5,5 @@ name
 ### Mes
 
 ## dirctory
+juice
+chop
